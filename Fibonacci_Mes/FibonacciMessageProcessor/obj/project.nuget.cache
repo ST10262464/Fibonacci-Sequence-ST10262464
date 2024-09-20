@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJecPuLzw68=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spraw\\OneDrive\\Desktop\\Fibonacci_Mes\\FibonacciMessageProcessor\\FibonacciMessageProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spraw\\.nuget\\packages\\azure.core\\1.43.0\\azure.core.1.43.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\azure.storage.common\\12.21.0\\azure.storage.common.12.21.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\azure.storage.files.shares\\12.20.0\\azure.storage.files.shares.12.20.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\azure.storage.queues\\12.20.0\\azure.storage.queues.12.20.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.text.json\\6.0.9\\system.text.json.6.0.9.nupkg.sha512",
+    "C:\\Users\\spraw\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
