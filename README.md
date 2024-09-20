@@ -1,7 +1,5 @@
 # Fibonacci-Sequence-ST10262464
 
-# Fibonacci Sequence Console Applications
-
 This repository contains two console applications:
 1. **Fibonacci Sequence Generator**: Generates the Fibonacci sequence up to 233 and stores each Fibonacci number as a message in Azure Queue Storage.
 2. **Message Processor**: Retrieves the Fibonacci numbers from Azure Queue Storage, writes them into a text file named `Moritlha-Madisha.txt`, and uploads the file to Azure File Storage.
